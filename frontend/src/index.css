@@ -5,8 +5,7 @@
 @tailwind components;
 @tailwind utilities;
 
-:root{
+:root {
   font-family: "Poppins", sans-serif;
-  color-scheme: light dark;
-  --very-light-yellow: theme('colors.very-light-yellow');
+  color-scheme: dark;
 }
